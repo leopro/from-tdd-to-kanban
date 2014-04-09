@@ -6,7 +6,7 @@ use Leopro\Tdd\EnvironmentChecker;
 
 class EnvironmentCheckerTest extends \PHPUnit_Framework_TestCase
 {
-    public function testStart()
+    public function testEnvironmentIsReady()
     {
         $object = new EnvironmentChecker();
         $this->assertTrue($object->isReady());
