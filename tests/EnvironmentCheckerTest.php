@@ -1,6 +1,6 @@
 <?php
 
-namespace Leopro\Tdd\Test;
+namespace Leopro\Tdd\Tests;
 
 use Leopro\Tdd\EnvironmentChecker;
 

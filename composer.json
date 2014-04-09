@@ -1,8 +1,15 @@
 {
-    "name": "from tdd to kanban",
+    "name": "From tdd to kanban",
     "license": "MIT",
     "type": "kata",
-    "description": "The repo for the 10/04/2014 workshop of codemotion",
+    "description": "My starting repo for the 10/04/2014 workshop of codemotion",
+    "authors": [
+        {
+            "name": "Leonardo Proietti",
+            "email": "leonardo.proietti@gmail.com",
+            "role": "Developer"
+        }
+    ],
     "autoload": {
         "psr-4": { "Leopro\\Tdd\\": "src/" }
     },
